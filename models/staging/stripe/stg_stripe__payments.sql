@@ -1,0 +1,1 @@
+select * from analytics.dbt_jresari.stripe_payments

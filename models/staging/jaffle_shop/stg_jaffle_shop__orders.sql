@@ -4,4 +4,4 @@
         order_date,
         status
 
-    from {{ref('jaffle_shop_orders')}}
+    from raw.jaffle_shop.orders
